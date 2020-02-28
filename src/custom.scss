@@ -1,0 +1,10 @@
+$grid-breakpoints: (
+        xs: 0,
+        sm: 1px,
+        md: 650px,
+        lg: 1212px,
+        xl: 1900px,
+        xxl: 1901px
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
